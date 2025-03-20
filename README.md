@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there. My name is Ariel Rodriguez Lau. I'm a Computer Science Engineer👋
 
 <!--
 **arielrl99/arielrl99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
